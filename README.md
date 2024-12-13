@@ -6,12 +6,12 @@
 
   ## 📕 Technology Stack
 
-### Programming Languages
+### 🐍 Programming Languages
 
 [![Languages](https://skillicons.dev/icons?i=python,c,ts,cs,go,swift)](https://skillicons.dev)
 
 
-### Dev Tools
+### ⚙️ Dev Tools
 [![devtools](https://skillicons.dev/icons?i=powershell,vim,vscode)](https://skillicons.dev)
 
 [![frameworks](https://skillicons.dev/icons?i=dotnet,django,graphql,react,vue)](https://skillicons.dev)
