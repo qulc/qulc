@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on **🪙Finance Web Backend**
 - 🌱 I’m currently learning **🪄Deep Learning 🔩Backend**
 
-  ## 📕 Technology Stack
+
+## 📕 Technology Stack
 
 ### 🐍 Programming Languages
 
@@ -13,9 +14,7 @@
 
 ### ⚙️ Dev Tools
 [![devtools](https://skillicons.dev/icons?i=powershell,vim,vscode)](https://skillicons.dev)
-
 [![frameworks](https://skillicons.dev/icons?i=dotnet,django,graphql,react,vue)](https://skillicons.dev)
-
 [![databases](https://skillicons.dev/icons?i=sqlite,postgres)](https://skillicons.dev)
 
 ## 🖥 My Device
