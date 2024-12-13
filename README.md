@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi , I'm LICHUN QU
-<h3 align="center">🧑‍💻A coder by night, a farmer by day.🧑‍🌾"</h3>
+<h3 align="center">🧑‍💻A coder by night, a farmer by day.🧑‍🌾</h3>
 
 - 🔭 I’m currently working on **🪙Finance Web Backend**
 - 🌱 I’m currently learning **🪄Deep Learning 🔩Backend**
