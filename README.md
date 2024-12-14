@@ -9,7 +9,7 @@
 
 ### 🐍 Programming Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,c,ts,cs,go,swift)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,c,cs,ts,go,swift)](https://skillicons.dev)
 
 
 ### ⚙️ Dev Tools
